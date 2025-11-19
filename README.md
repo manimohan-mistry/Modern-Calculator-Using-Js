@@ -43,7 +43,7 @@ Vanilla JavaScript
 🔗 Live Demo: https://modern-calculator-using-js.netlify.app/
 
 💻 Installation
-git clone https://github.com/yourusername/animated-calculator.git
+git clone https://github.com/manimohan-mistry/Modern-Calculator-Using-Js.git
 cd animated-calculator
 open index.html
 
