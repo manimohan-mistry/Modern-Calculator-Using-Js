@@ -1,4 +1,4 @@
-✨ Animated Calculator
+✨ Animated Calculator.
 
 A modern, animated calculator built with HTML, CSS, and JavaScript, featuring glassmorphism and smooth UI interactions.
 
